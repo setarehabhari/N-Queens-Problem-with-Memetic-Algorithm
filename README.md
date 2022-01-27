@@ -6,4 +6,6 @@ For solving this problem we will use a type of genetic algorithms named Mememtic
 
 
 For example this si the answer of an N-Queens problem when n equals 8:
+
+
 ![download](https://user-images.githubusercontent.com/61220887/151400679-7aee6157-2e45-4024-a624-e22e013a3c36.png)
